@@ -1,5 +1,5 @@
 # Project description
-ultra responsive design for a food ordering app.
+Ultra responsive design for a food ordering app.
 
 # Author
 DUSABE Peace
